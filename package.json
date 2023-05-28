@@ -1,0 +1,16 @@
+{
+  "name": "accounts---project-node",
+  "version": "1.0.0",
+  "description": "a project using node.mjs coremodules",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.mjs"
+  },
+  "author": "Gabriel Tomé",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.2.6"
+  }
+}
